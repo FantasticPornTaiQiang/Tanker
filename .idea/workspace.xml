@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25ebabad-7f24-4ec5-b176-f3ac43f32b41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Data/data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/lose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/victory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/warning01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/bgm.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Buff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/DataController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/BookPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/prepare.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/prepare.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TANKER/META-INF/TANKER.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Bullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/BulletList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/BulletPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/BulletPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Objects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presenter/GameContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/presenter/GameContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presenter/GamePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/presenter/GamePresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/GameStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/GameStage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/ImageLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/ImageLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/TankUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/TankUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/LotteryPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/LotteryPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/PreparePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/PreparePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/StatusBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/StatusBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/StorePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/StorePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/TankBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/TankBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/WarFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/WarFrame.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1U0un6MtkdR1LwJqQt5RrhBJLJD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\MyStudy\TANKER\tanker\TANKER" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.GameFrame" />
+      <module name="TANKER" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25ebabad-7f24-4ec5-b176-f3ac43f32b41" name="Default Changelist" comment="" />
+      <created>1574505997175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574505997175</updated>
+      <workItem from="1574505998401" duration="5994000" />
+      <workItem from="1575905150575" duration="1288000" />
+      <workItem from="1575938388754" duration="24000" />
+      <workItem from="1575196285332" duration="3994000" />
+      <workItem from="1575818365104" duration="22000" />
+      <workItem from="1575982926172" duration="264000" />
+      <workItem from="1576114812424" duration="10431000" />
+      <workItem from="1576130406217" duration="1731000" />
+      <workItem from="1576140651191" duration="31000" />
+      <workItem from="1576144900042" duration="3102000" />
+      <workItem from="1576158708386" duration="1136000" />
+      <workItem from="1576160361742" duration="13227000" />
+      <workItem from="1576173973167" duration="1914000" />
+      <workItem from="1576176723579" duration="428000" />
+      <workItem from="1576211602872" duration="501000" />
+      <workItem from="1576212596783" duration="74000" />
+      <workItem from="1576212700909" duration="68000" />
+      <workItem from="1576220007889" duration="4125000" />
+      <workItem from="1576224162710" duration="8000" />
+      <workItem from="1576232180425" duration="4051000" />
+      <workItem from="1576236460931" duration="1355000" />
+      <workItem from="1576238069895" duration="2730000" />
+      <workItem from="1576240961977" duration="9521000" />
+      <workItem from="1576293332545" duration="575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
